@@ -1,0 +1,130 @@
+2024-12-10 01:11:27,817 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 1, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 01:11:37,259 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 01:11:37,275 CLIP_COCO_TRAIN INFO:   Num examples = 118287
+2024-12-10 01:11:37,275 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 01:11:37,275 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 01:11:37,275 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 01:11:37,283 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 01:11:37,284 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 01:11:37,285 CLIP_COCO_TRAIN INFO:   Total optimization steps = 129360
+2024-12-10 01:11:37,286 CLIP_COCO_TRAIN INFO:   warmup steps = 25872
+2024-12-10 01:13:16,525 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 01:13:20,739 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 01:13:20,740 CLIP_COCO_TRAIN INFO:   Num examples = 118287
+2024-12-10 01:13:20,740 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 01:13:20,741 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 01:13:20,741 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 01:13:20,742 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 01:13:20,742 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 01:13:20,743 CLIP_COCO_TRAIN INFO:   Total optimization steps = 129360
+2024-12-10 01:13:20,743 CLIP_COCO_TRAIN INFO:   warmup steps = 25872
+2024-12-10 01:18:25,407 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 01:18:29,140 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 01:18:29,140 CLIP_COCO_TRAIN INFO:   Num examples = 118287
+2024-12-10 01:18:29,140 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 01:18:29,155 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 01:18:29,155 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 01:18:29,155 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 01:18:29,155 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 01:18:29,155 CLIP_COCO_TRAIN INFO:   Total optimization steps = 129360
+2024-12-10 01:18:29,159 CLIP_COCO_TRAIN INFO:   warmup steps = 25872
+2024-12-10 01:19:21,136 CLIP_COCO_TRAIN INFO: Epoch: 0, global_step: 50, lr: 0.000001, loss: 1.4413 (2.8052)
+2024-12-10 01:20:04,407 CLIP_COCO_TRAIN INFO: Epoch: 0, global_step: 100, lr: 0.000002, loss: 1.4041 (2.7985)
+2024-12-10 01:29:26,165 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 01:29:30,505 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 01:29:30,505 CLIP_COCO_TRAIN INFO:   Num examples = 118287
+2024-12-10 01:29:30,505 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 01:29:30,505 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 01:29:30,505 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 01:29:30,505 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 01:29:30,505 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 01:29:30,517 CLIP_COCO_TRAIN INFO:   Total optimization steps = 129360
+2024-12-10 01:29:30,518 CLIP_COCO_TRAIN INFO:   warmup steps = 25872
+2024-12-10 01:39:38,134 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 01:40:05,746 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 01:40:10,397 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 01:40:10,397 CLIP_COCO_TRAIN INFO:   Num examples = 118287
+2024-12-10 01:40:10,397 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 01:40:10,397 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 01:40:10,397 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 01:40:10,397 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 01:40:10,397 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 01:40:10,397 CLIP_COCO_TRAIN INFO:   Total optimization steps = 129360
+2024-12-10 01:40:10,397 CLIP_COCO_TRAIN INFO:   warmup steps = 25872
+2024-12-10 02:00:56,675 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 02:01:03,919 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 02:01:03,935 CLIP_COCO_TRAIN INFO:   Num examples = 5914
+2024-12-10 02:01:03,935 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 02:01:03,935 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 02:01:03,941 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 02:01:03,942 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 02:01:03,944 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 02:01:03,947 CLIP_COCO_TRAIN INFO:   Total optimization steps = 6475
+2024-12-10 02:01:03,949 CLIP_COCO_TRAIN INFO:   warmup steps = 1295
+2024-12-10 02:01:53,412 CLIP_COCO_TRAIN INFO: Epoch: 0, global_step: 50, lr: 0.000019, loss: 1.3554 (2.7752)
+2024-12-10 02:02:35,376 CLIP_COCO_TRAIN INFO: Epoch: 0, global_step: 100, lr: 0.000039, loss: 1.2805 (2.7356)
+2024-12-10 02:03:17,455 CLIP_COCO_TRAIN INFO: Epoch: 0, global_step: 150, lr: 0.000058, loss: 1.1972 (2.6848)
+2024-12-10 02:03:56,608 CLIP_COCO_TRAIN INFO: Epoch: 1, global_step: 200, lr: 0.000077, loss: 1.3680 (2.6249)
+2024-12-10 02:04:29,797 CLIP_COCO_TRAIN INFO: Epoch: 1, global_step: 250, lr: 0.000097, loss: 1.1993 (2.5710)
+2024-12-10 02:06:43,411 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 02:06:46,007 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 02:06:46,007 CLIP_COCO_TRAIN INFO:   Num examples = 29
+2024-12-10 02:06:46,007 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 02:06:46,007 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 02:06:46,007 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 02:06:46,007 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 02:06:46,007 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 02:06:46,007 CLIP_COCO_TRAIN INFO:   Total optimization steps = 35
+2024-12-10 02:06:46,007 CLIP_COCO_TRAIN INFO:   warmup steps = 7
+2024-12-10 02:07:13,423 CLIP_COCO_TRAIN INFO: Save checkpoint to saved_checkpoints\checkpoint_34_35.pt
+2024-12-10 02:07:13,423 CLIP_COCO_TRAIN INFO: Training done: total_step = 35, avg loss = 0.8124492984265089
+2024-12-10 02:31:21,145 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 02:31:22,785 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 02:31:22,785 CLIP_COCO_TRAIN INFO:   Num examples = 29
+2024-12-10 02:31:22,785 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 02:31:22,785 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 02:31:22,785 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 02:31:22,785 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 02:31:22,785 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 02:31:22,785 CLIP_COCO_TRAIN INFO:   Total optimization steps = 35
+2024-12-10 02:31:22,785 CLIP_COCO_TRAIN INFO:   warmup steps = 7
+2024-12-10 02:31:47,921 CLIP_COCO_TRAIN INFO: Save checkpoint to saved_checkpoints\checkpoint_34_35.pt
+2024-12-10 02:31:47,923 CLIP_COCO_TRAIN INFO: Training done: total_step = 35, avg loss = 0.8123289196086781
+2024-12-10 02:32:48,018 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 02:32:49,896 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 02:32:49,896 CLIP_COCO_TRAIN INFO:   Num examples = 29
+2024-12-10 02:32:49,896 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 02:32:49,896 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 02:32:49,911 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 02:32:49,911 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 02:32:49,911 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 02:32:49,911 CLIP_COCO_TRAIN INFO:   Total optimization steps = 35
+2024-12-10 02:32:49,911 CLIP_COCO_TRAIN INFO:   warmup steps = 7
+2024-12-10 02:33:14,977 CLIP_COCO_TRAIN INFO: Save checkpoint to saved_checkpoints\checkpoint_34_35.pt
+2024-12-10 02:33:14,977 CLIP_COCO_TRAIN INFO: Training done: total_step = 35, avg loss = 0.8124701993273837
+2024-12-10 02:36:15,820 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 02:36:17,507 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 02:36:17,523 CLIP_COCO_TRAIN INFO:   Num examples = 53
+2024-12-10 02:36:17,523 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 02:36:17,523 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 02:36:17,523 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 02:36:17,523 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 02:36:17,523 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 02:36:17,523 CLIP_COCO_TRAIN INFO:   Total optimization steps = 70
+2024-12-10 02:36:17,523 CLIP_COCO_TRAIN INFO:   warmup steps = 14
+2024-12-10 02:36:47,722 CLIP_COCO_TRAIN INFO: Epoch: 24, global_step: 50, lr: 0.000142, loss: 0.1048 (1.4473)
+2024-12-10 02:37:01,631 CLIP_COCO_TRAIN INFO: Save checkpoint to saved_checkpoints\checkpoint_34_70.pt
+2024-12-10 02:37:01,633 CLIP_COCO_TRAIN INFO: Training done: total_step = 70, avg loss = 1.16398851616042
+2024-12-10 03:52:46,310 CLIP_COCO_TRAIN INFO: Training/evaluation parameters {'per_gpu_train_batch_size': 16, 'per_gpu_eval_batch_size': 128, 'n_gpu': 1, 'num_workers': 0, 'num_train_epochs': 35, 'gradient_accumulation_steps': 2, 'logging_steps': 50, 'save_steps': 1000, 'saved_checkpoints': 'saved_checkpoints', 'logs': 'logs', 'optimizer': {'params': {'eps': 1e-08, 'lr': 0.0005, 'weight_decay': 0.1}, 'type': 'AdamW'}}
+2024-12-10 03:52:53,208 CLIP_COCO_TRAIN INFO: ***** Running training *****
+2024-12-10 03:52:53,208 CLIP_COCO_TRAIN INFO:   Num examples = 53
+2024-12-10 03:52:53,208 CLIP_COCO_TRAIN INFO:   Num Epochs = 35
+2024-12-10 03:52:53,208 CLIP_COCO_TRAIN INFO:   Number of GPUs = 1
+2024-12-10 03:52:53,208 CLIP_COCO_TRAIN INFO:   Batch size per GPU = 16
+2024-12-10 03:52:53,208 CLIP_COCO_TRAIN INFO:   Total train batch size (w. parallel, & accumulation) = 32
+2024-12-10 03:52:53,208 CLIP_COCO_TRAIN INFO:   Gradient Accumulation steps = 2
+2024-12-10 03:52:53,217 CLIP_COCO_TRAIN INFO:   Total optimization steps = 70
+2024-12-10 03:52:53,217 CLIP_COCO_TRAIN INFO:   warmup steps = 14
+2024-12-10 03:53:34,793 CLIP_COCO_TRAIN INFO: Epoch: 24, global_step: 50, lr: 0.000142, loss: 0.1771 (1.2998)
+2024-12-10 03:53:51,155 CLIP_COCO_TRAIN INFO: Save checkpoint to saved_checkpoints\checkpoint_34_70.pt
+2024-12-10 03:53:51,155 CLIP_COCO_TRAIN INFO: Training done: total_step = 70, avg loss = 1.0388372382980637
